@@ -1,0 +1,166 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`[components] - CartProduct should render correctly 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="CartProduct__Container-sc-11uohgb-0 iFEDVZ"
+      >
+        <button
+          class="CartProduct__DeleteButton-sc-11uohgb-5 fZpMUH"
+          title="remove product from cart"
+        />
+        <img
+          alt="Cropped Stay Groovy off white"
+          class="CartProduct__Image-sc-11uohgb-7 dSflEM"
+          src="8552515751438644-1-cart.webp"
+        />
+        <div
+          class="CartProduct__Details-sc-11uohgb-1 dWfwVY"
+        >
+          <p
+            class="CartProduct__Title-sc-11uohgb-2 jVsMjn"
+          >
+            Cropped Stay Groovy off white
+          </p>
+          <p
+            class="CartProduct__Desc-sc-11uohgb-3 bRgwLG"
+          >
+            S | White T-shirt
+             
+            <br />
+            Quantity: 
+            1
+          </p>
+        </div>
+        <div
+          class="CartProduct__Price-sc-11uohgb-4 NDRzT"
+        >
+          <p>
+            $  10.90
+          </p>
+          <div>
+            <button
+              class="CartProduct__ChangeQuantity-sc-11uohgb-6 JoGgi"
+              disabled=""
+            >
+              -
+            </button>
+            <button
+              class="CartProduct__ChangeQuantity-sc-11uohgb-6 JoGgi"
+            >
+              +
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="CartProduct__Container-sc-11uohgb-0 iFEDVZ"
+    >
+      <button
+        class="CartProduct__DeleteButton-sc-11uohgb-5 fZpMUH"
+        title="remove product from cart"
+      />
+      <img
+        alt="Cropped Stay Groovy off white"
+        class="CartProduct__Image-sc-11uohgb-7 dSflEM"
+        src="8552515751438644-1-cart.webp"
+      />
+      <div
+        class="CartProduct__Details-sc-11uohgb-1 dWfwVY"
+      >
+        <p
+          class="CartProduct__Title-sc-11uohgb-2 jVsMjn"
+        >
+          Cropped Stay Groovy off white
+        </p>
+        <p
+          class="CartProduct__Desc-sc-11uohgb-3 bRgwLG"
+        >
+          S | White T-shirt
+           
+          <br />
+          Quantity: 
+          1
+        </p>
+      </div>
+      <div
+        class="CartProduct__Price-sc-11uohgb-4 NDRzT"
+      >
+        <p>
+          $  10.90
+        </p>
+        <div>
+          <button
+            class="CartProduct__ChangeQuantity-sc-11uohgb-6 JoGgi"
+            disabled=""
+          >
+            -
+          </button>
+          <button
+            class="CartProduct__ChangeQuantity-sc-11uohgb-6 JoGgi"
+          >
+            +
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
