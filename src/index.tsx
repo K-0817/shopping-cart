@@ -1,6 +1,7 @@
 import { StrictMode } from 'react';
 import * as ReactDOMClient from 'react-dom/client';
 
+
 /* Theme */
 import { ThemeProvider } from 'commons/style/styled-components';
 import { theme } from 'commons/style/theme';
