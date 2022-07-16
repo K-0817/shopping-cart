@@ -14,6 +14,7 @@ const breakpoints = {
   desktop: '1025px',
 };
 
+
 const theme: StyleClosetTheme = {
   colors,
   breakpoints,
